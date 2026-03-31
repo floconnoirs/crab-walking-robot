@@ -2,4 +2,4 @@
 
 CAD project designed in SolidWorks featuring Klann linkages and a planetary gear system.
 
-![Demo](Crab.gif)
+![Demo](walking-system-crab.gif)
